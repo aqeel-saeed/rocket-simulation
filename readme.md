@@ -2,11 +2,11 @@
 This is a project to simulate the flight of a rocket in a 3D environment using 'three.js' library. The rocket is defined by several properties such as its position, mass, fuel mass, height, radius, head type, engine type, temperature, and nozzle radius. The simulation also takes into account the gravity force, exhaust velocity, atmospheric pressure, and other factors that affect the rocket's flight.
 
 ## ScreenShots
-![Screenshot1](screenshots/screenshot1.png)
+![Screenshot1](screenshots/screenshot_1.png)
 
-![Screenshot2](screenshots/screenshot2.png)
+![Screenshot2](screenshots/screenshot_3.png)
 
-![Screenshot3](screenshots/screenshot3.png)
+![Screenshot3](screenshots/screenshot_2.png)
 
 ## Project Structure
 The main simulation code is located in the 'Rocket.js' file. This file defines the Rocket class with its properties and methods. The 'vector.js' file contains a simple implementation of a 2D vector. The 'world.js' file defines some constants used in the simulation such as the earth's radius, mass, and gravitational constant. The index.html file includes the necessary dependencies, sets up the 3D environment, and starts the simulation.
